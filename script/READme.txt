@@ -4,7 +4,7 @@
 [Owner] Jaehyun Choi
 
 [Data]
-- raw_data/: 
+- raw_data/: GSE295241
 - processed: filtered and normalized with Scanpy and R,  see 01_preprocessing.ipynb
 
 [Main Steps]
