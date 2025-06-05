@@ -18,4 +18,3 @@ GO and KEGG analyses were performed using differentially expressed genes (log₂
 
 
 [Note]
-- All results saved in results/, final plots in figures/
