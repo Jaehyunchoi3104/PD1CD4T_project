@@ -5,4 +5,4 @@ This repository is companion to study of
 All codes used in this study are available here.
 
 # Reference 
-Min-Ji Cho1, Jaehyun Choi, Anton Rakhman, Jae-Won Yoon, Yong Gyun Ko, Hye Young Kim, Gap Ryol Lee, Hyobin Jeong and Je-Min Choi
+Min-Ji Cho, Jaehyun Choi, Anton Rakhman, Jae-Won Yoon, Yong Gyun Ko, Hye Young Kim, Gap Ryol Lee, Hyobin Jeong and Je-Min Choi
