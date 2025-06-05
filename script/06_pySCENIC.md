@@ -1,6 +1,7 @@
 
 # PySCENIC analysis
 
+```python
 #pre process adata to analyze with SCENIC
 import numpy as np
 
@@ -24,6 +25,7 @@ import loompy
 with loompy.connect("/home/jaehyunchoi/pySCENIC/data/16clustername_241019.loom") as ds:
     print("Row attributes:", ds.ra.keys())  
     print("Column attributes:", ds.ca.keys())  
+```
 
 # pySCENIC analysis with Docker
 # 1. SCENIC : Run GRN inference
