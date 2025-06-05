@@ -22,9 +22,8 @@ adata.write_loom("/home/jaehyunchoi/pySCENIC/data/16clustername_241019.loom", wr
 import loompy
 
 with loompy.connect("/home/jaehyunchoi/pySCENIC/data/16clustername_241019.loom") as ds:
-    print("Row attributes:", ds.ra.keys())  # 'Gene'이 포함되어야 함
-    print("Column attributes:", ds.ca.keys())  # 'CellID'가 포함되어야 함
-
+    print("Row attributes:", ds.ra.keys())  
+    print("Column attributes:", ds.ca.keys())  
 
 # pySCENIC analysis with Docker
 # 1. SCENIC : Run GRN inference
