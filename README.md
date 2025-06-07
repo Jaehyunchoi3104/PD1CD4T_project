@@ -6,3 +6,6 @@ All codes used in this study are available here.
 
 # Reference 
 Min-Ji Cho, Jaehyun Choi, Anton Rakhman, Jae-Won Yoon, Yong Gyun Ko, Hye Young Kim, Gap Ryol Lee, Hyobin Jeong and Je-Min Choi
+
+
+Cite the code: 10.5281/zenodo.15612887
